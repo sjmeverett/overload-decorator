@@ -1,0 +1,30 @@
+{
+  "name": "overload-decorator",
+  "version": "0.1.0",
+  "description": "Defines a decorator for overloading, inspired by leFunc",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stewartml/overload-decorator.git"
+  },
+  "keywords": [
+    "decorators",
+    "ES6",
+    "ES2015",
+    "overload",
+    "overloading"
+  ],
+  "author": "Stewart MacKenzie-Leigh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stewartml/overload-decorator/issues"
+  },
+  "homepage": "https://github.com/stewartml/overload-decorator#readme",
+  "devDependencies": {
+    "babel": "^5.8.21",
+    "chai": "^3.2.0"
+  }
+}
